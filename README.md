@@ -9,6 +9,7 @@ This project contains basic exploratory data analysis (EDA) on the `customers` d
 - Identified unique states across Brazil.
 - Used pattern matching (`LIKE`) to find customers in cities like Rio.
   ---
+---
 
 ## 🗺️ Geospatial Analysis & Interactive Dashboard
 
