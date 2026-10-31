@@ -1,14 +1,17 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/88da85d0-eeb0-4924-9f3d-748e76551b7f" /># Brazilian E-Commerce Customers SQL Analysis
+# Brazilian E-Commerce Customers SQL Analysis
 
 ## Project Overview
-This project contains basic exploratory data analysis (EDA) on the `customers` dataset from Olist using MySQL.
+This project contains exploratory data analysis (EDA) on the `customers` and `geolocation` datasets from Olist using MySQL and Power BI.
 
-## Key Insights & Queries
+## 1. Customers Dataset - Key Insights & Queries
 - Checked total customer records and table schema.
 - Filtered customers by state (`SP`).
 - Identified unique states across Brazil.
 - Used pattern matching (`LIKE`) to find customers in cities like Rio.
- ---
+
+🔗 **[View Customers SQL Script](./customers_analysis.sql)**
+
+---
 
 ## 🗺️ Geospatial Analysis & Interactive Dashboard
 
